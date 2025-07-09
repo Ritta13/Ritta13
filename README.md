@@ -16,7 +16,7 @@ Me apasiona resolver problemas con lógica clara y escribir código limpio.
 
 | Proyecto                                     | Tech Stack                   | Descripción                                                                 |
 |---------------------------------------------|------------------------------|-----------------------------------------------------------------------------|
-| 🎯 Proyecto Final: Gestión de Aerolínea      | C# · ArrayList · Recursión   | App de consola para gestionar vuelos y servicios con validaciones |
+| 🎯 Gestión de Aerolínea      | C# · ArrayList · Recursión   | App de consola para gestionar vuelos y servicios con validaciones |
 🔍 Explorá todos mis proyectos 👉 [GitHub](https://github.com/Ritta13?tab=repositories)
 
 ---
