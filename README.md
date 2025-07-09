@@ -14,19 +14,24 @@ Me apasiona resolver problemas con lógica clara y escribir código limpio.
 
 ## 📂 Proyectos destacados
 
-| Proyecto                                     | Tech Stack                   | Descripción                                                                 |
-|---------------------------------------------|------------------------------|-----------------------------------------------------------------------------|
-| 🎯 Gestión de Aerolínea      | C# · ArrayList · Recursión   | App de consola para gestionar vuelos y servicios con validaciones |
-🔍 Explorá todos mis proyectos 👉 [GitHub](https://github.com/Ritta13?tab=repositories)
+| Proyecto                          | Tech Stack                        | Descripción                                                               |
+|----------------------------------|---------------------------------|---------------------------------------------------------------------------|
+| 🎯 Gestión de Aerolínea           | C# · Listas genéricas · Recursión | Aplicación de consola para gestionar vuelos, clientes y servicios con validaciones y manejo de datos. |
 
+🔍 Explorá todos mis proyectos 👉 [GitHub](https://github.com/Ritta13?tab=repositories)
 ---
 
 ## 🚧 En aprendizaje
 
-- APIs REST y diseño de endpoints
-- Principios SOLID y estructuras limpias
-- Flask .NET para backend web
-- Control de versiones avanzado con Git
+- Desarrollo backend con ASP.NET Core y C#
+- Diseño y consumo de APIs REST
+- Modelado y gestión de bases de datos relacionales (SQL Server, MySQL)
+- Programación orientada a objetos y principios SOLID
+- Patrones de diseño de software aplicados
+- Control de versiones con Git y manejo colaborativo en GitHub
+- Testing y depuración de aplicaciones
+- Seguridad básica en aplicaciones web
+- Fundamentos de arquitectura de software
 
 ---
 
@@ -47,5 +52,4 @@ Me apasiona resolver problemas con lógica clara y escribir código limpio.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ritta13&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritta13&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
